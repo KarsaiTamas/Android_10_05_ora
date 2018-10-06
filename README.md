@@ -1,1 +1,0 @@
-Android_10_05_ora
